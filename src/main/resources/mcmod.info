@@ -1,0 +1,15 @@
+[
+{
+  "modid": "viewdistancechanger",
+  "name": "View Distance Changer",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["Techjar"],
+  "credits": "lol",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
